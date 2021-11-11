@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Committees"
+title: ""
 permalink: committees/
 ---
 
