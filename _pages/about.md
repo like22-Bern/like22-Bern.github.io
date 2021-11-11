@@ -11,7 +11,6 @@ header:
   overlay_image: /assets/images/unsplash2_1.jpg
   caption: "Photo credit: [*Andreas Fischinger*](https://unsplash.com/photos/xosBoKRT0qE)"
   overlay_filter: 0.5
-
 ---
 
 Welcome!
