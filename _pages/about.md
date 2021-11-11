@@ -11,6 +11,11 @@ header:
   overlay_image: /assets/images/unsplash2_1.jpg
   caption: "Photo credit: [*Andreas Fischinger*](https://unsplash.com/photos/xosBoKRT0qE)"
   overlay_filter: 0.5
+  actions:
+    - label: "Register"
+      url: "https://forms.gle/4GaJBmj72tT3XtR39"
+    - label: "Submit your work"
+      url: "#bar"
 ---
 
 Welcome!
