@@ -4,9 +4,8 @@ title: "Speakers"
 permalink: speakers/
 ---
 
-{% include base_path %}
+# Confirmed speakers (in progress): 
 
-Confirmed speakers (in progress): 
   * [Dario Azzimonti](https://sites.google.com/view/darioazzimonti/home) (IDSIA)  
   * [Florence d'Alché-Buc](https://perso.telecom-paristech.fr/fdalche/) (Télécom Paris)  
   * [Carl Henrik Ek](http://carlhenrik.com/) (University of Cambridge)  
