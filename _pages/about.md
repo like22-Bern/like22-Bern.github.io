@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Lifting inference with kernel embeddings"
+title: "Lifting Inference with Kernel Embeddings"
 excerpt: "In Bern and online: January 10th to 14th 2022"
 layout: splash
 classes: wide
