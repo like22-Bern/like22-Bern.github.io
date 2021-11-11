@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Speakers"
-permalink: speakers/
+permalink: /speakers/
 ---
 
 # Confirmed speakers (in progress): 

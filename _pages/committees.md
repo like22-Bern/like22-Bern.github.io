@@ -1,7 +1,7 @@
 ---
 layout: single
 title: ""
-permalink: committees/
+permalink: /committees/
 ---
 
 # Scientific Committee (in progress): 
