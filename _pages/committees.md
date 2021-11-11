@@ -1,10 +1,8 @@
 ---
 layout: single
 title: "Committees"
-permalink: /committees/
+permalink: committees/
 ---
-
-{% include base_path %}
 
 # Scientific Committee (in progress): 
 
