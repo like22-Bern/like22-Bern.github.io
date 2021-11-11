@@ -11,15 +11,15 @@ header:
   overlay_filter: 0.5
   actions:
     - label: "First day"
-      url: "/program3/#monday-10th-january-2022"
+      url: "/program/#monday-10th-january-2022"
     - label: "Second day"
-      url: "/program3/#tuesday-11th-january-2022"
+      url: "/program/#tuesday-11th-january-2022"
     - label: "Third day"
-      url: "/program3/#wednesday-12th-january-2022"
+      url: "/program/#wednesday-12th-january-2022"
     - label: "Fourth day"
-      url: "/program3/#thursday-13th-january-2022"
+      url: "/program/#thursday-13th-january-2022"
     - label: "Fifth day"
-      url: "/program3/#friday-14th-january-2022"
+      url: "/program/#friday-14th-january-2022"
 ---
 
 The program is to be announced soon.
