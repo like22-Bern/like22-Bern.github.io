@@ -2,8 +2,6 @@
 layout: single
 title: "Speakers"
 permalink: speakers/
-toc: true
-toc_label: "Jump to:"
 ---
 
 {% include base_path %}
