@@ -22,3 +22,4 @@ This event, to take place between January 10th to 14th 2022 (electronically + in
   *  kecent advances in Gaussian Process modelling,  
 
   *  active learning for accelerated inference. 
+
