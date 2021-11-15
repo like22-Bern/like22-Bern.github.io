@@ -17,7 +17,8 @@ permalink: /committees/
   * [Luc Pronzato](https://www.i3s.unice.fr/lpronzato/) (CNRS)  
   * [Judith Rousseau](http://www.stats.ox.ac.uk/~rousseau/) (University of Oxford)  
   * [Thomas Schön](http://user.it.uu.se/~thosc112/index.html) (Uppsala University)   
-  * [Bharath Sriperumbudur](http://personal.psu.edu/bks18/) (Pennsylvania State University)   
+  * [Bharath Sriperumbudur](http://personal.psu.edu/bks18/) (Pennsylvania State University)  
+  * [Ingo Steinwart](https://www.isa.uni-stuttgart.de/institut/team/Steinwart-00002/) (University of Stuttgart)
   * [Bruno Sudret](https://sudret.ibk.ethz.ch/) (ETH Zürich)  
   * [Christine Thomas-Agnan](https://www.tse-fr.eu/people/christine-thomas-agnan) (Toulouse School of Economics)  
  
