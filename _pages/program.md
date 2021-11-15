@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Program of the workshop"
-description: "See the schedule of the event"
+description: "LIKE22's schedule"
 excerpt:  "See the schedule of:"
 permalink: /program/
 modified: 2021-11-11
