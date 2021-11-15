@@ -22,9 +22,16 @@ header:
       url: "/program/#friday-14th-january-2022"
 ---
 
-The program is to be announced soon.
+Tentative schedule (to be confirmed):
 
 ### Monday 10th January 2022
+
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Speaker&nbsp;&nbsp;&nbsp;&nbsp; | Title and abstract |  
+|:-----------:|:-------------:|:-------------------|  
+| 09:00-10:30 | [Athénaïs Gautier](https://athenaisgautier.github.io/) & [David Ginsbourger](http://www.ginsbourger.ch/) | Title TBA  <br /> abstract TBA |  
+| 10:30-12:00 | [Speaker 2]() | Title  <br /> abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract |  
+| 13:45-15:15 | [Speaker 3]() | Title  <br /> abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract |  
+| 15:30-17:00 | [Speaker 4]() | Title  <br /> abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract |  
 
 
 ### Tuesday 11th January 2022
