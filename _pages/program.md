@@ -28,10 +28,10 @@ Tentative schedule (to be confirmed):
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Title and abstract |  
 |:-----------:|:-------------:|:-------------------|  
-| 09:00-10:30 | [Athénaïs Gautier](https://athenaisgautier.github.io/) &<br />[David Ginsbourger](http://www.ginsbourger.ch/) | Title TBA  <br /> abstract TBA |  
-| 11:00-12:30 | [Dario Azzimonti](https://sites.google.com/view/darioazzimonti/home) &<br />[Cédric Travelletti](https://scholar.google.com/citations?user=zvkbeqYAAAAJ) | Title TBA  <br /> abstract TBA |   
-| 13:30-15:00 | [Soham Sarkar](https://sites.google.com/view/sohamsarkar) | Title TBA  <br /> abstract TBA |  
-| 15:30-17:00 | [ST John](http://www.infinitecuriosity.org/about/) | Title TBA  <br /> abstract TBA |  
+| 09:00-10:30 | [Athénaïs Gautier](https://athenaisgautier.github.io/) &<br />[David Ginsbourger](http://www.ginsbourger.ch/) | TBA |  
+| 11:00-12:30 | [Dario Azzimonti](https://sites.google.com/view/darioazzimonti/home) &<br />[Cédric Travelletti](https://scholar.google.com/citations?user=zvkbeqYAAAAJ) | TBA |   
+| 13:30-15:00 | [Soham Sarkar](https://sites.google.com/view/sohamsarkar) | TBA |  
+| 15:30-17:00 | [ST John](http://www.infinitecuriosity.org/about/) | TBA |  
 
 
 ### Tuesday 11th January 2022
