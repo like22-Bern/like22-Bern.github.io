@@ -12,6 +12,7 @@ permalink: /speakers/
   * [Peter Frazier](https://people.orie.cornell.edu/pfrazier/) (Cornell University)  
   * [Andrew Gordon Wilson](https://cims.nyu.edu/~andrewgw/) (New York University)  
   * [Michael Gutmann](https://michaelgutmann.github.io/) (University of Edinburgh)  
+  * [José Miguel Hernández-Lobato](https://jmhl.org/) (University of Cambridge)  
   * [ST John](http://www.infinitecuriosity.org/about/) (Finnish Center for Artificial Intelligence)  
   * [Tomasz Kacprzak](http://tomaszkacprzak.github.io/) (ETH Zürich)  
   * [Amandine Marrel](https://scholar.google.com/citations?user=fYND7JQAAAAJ&hl=en) (CEA Cadarache)  
