@@ -26,8 +26,8 @@ permalink: /committees/
 # Organizing Committee (in progress): 
 
   * [Lea Friedli](https://www.researchgate.net/profile/Lea-Friedli-2) (University of Lausanne)    
-  * [Athénais Gautier](https://athenaisgautier.github.io/) (University of Bern)  
+  * [Athénaïs Gautier](https://athenaisgautier.github.io/) (University of Bern)  
   * [David Ginsbourger](http://www.ginsbourger.ch/) (**Chair**, University of Bern)  
   * [Guillaume Pirot](http://www.cet.edu.au/who-we-are/a-z-staff-profiles/guillaume-pirot) (University of Western Australia)  
   * [Soham Sarkar](https://sites.google.com/view/sohamsarkar) (EPFL)   
-  * [Cédric Travelletti](https://github.com/CedricTravelletti) (University of Bern)      
+  * [Cédric Travelletti](https://scholar.google.com/citations?user=zvkbeqYAAAAJ) (University of Bern)      
