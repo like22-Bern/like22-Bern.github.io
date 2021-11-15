@@ -22,7 +22,7 @@ header:
       url: "/program/#friday-14th-january-2022"
 ---
 
-Tentative schedule (to be confirmed):
+# Tentative schedule (to be confirmed)
 
 ### Monday 10th January 2022
 
