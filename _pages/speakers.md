@@ -1,6 +1,7 @@
 ---
 layout: single
-title: "Speakers"
+title: ""
+description: "LIKE22's speakers"
 permalink: /speakers/
 ---
 
