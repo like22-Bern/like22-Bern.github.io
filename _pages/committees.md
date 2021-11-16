@@ -15,6 +15,7 @@ permalink: /committees/
   * [Houman Owhadi](http://users.cms.caltech.edu/~owhadi/index.htm) (California Institute of Technology)  
   * [Wolfgang Polonik](http://www.stat.ucdavis.edu/~polonik/WP-personal-home.html) (University of California at Davis)  
   * [Victor Panaretos](http://smat-files.epfl.ch/victor/index.html) (EPFL)  
+  * [Fernando Perez-Cruz](https://datascience.ch/team_member/fernando-perez-cruz/) (Swiss Data Science Center)   
   * [Luc Pronzato](https://www.i3s.unice.fr/lpronzato/) (CNRS)  
   * [Judith Rousseau](http://www.stats.ox.ac.uk/~rousseau/) (University of Oxford)  
   * [Thomas Schön](http://user.it.uu.se/~thosc112/index.html) (Uppsala University)   
