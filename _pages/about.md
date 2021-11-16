@@ -12,7 +12,7 @@ header:
   caption: "Photo credit: [*Andreas Fischinger*](https://unsplash.com/photos/xosBoKRT0qE)"
   overlay_filter: 0.5
   actions:
-    - label: "Registration (free)"
+    - label: "Registration"
       url: "https://forms.gle/46WJDGtv5nxwgsjS9"
 ---
 
@@ -26,3 +26,4 @@ This event, to take place between January 10th to 14th 2022 (electronically + in
 
   *  active learning for accelerated inference. 
 
+Registration (free of charge) is highly encouraged for organizational purpose.  
