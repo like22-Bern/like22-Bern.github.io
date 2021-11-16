@@ -19,7 +19,7 @@ This event, to take place between January 10th to 14th 2022 (electronically + in
 
   *  kernel embeddings from theory to applications,   
 
-  *  kecent advances in Gaussian Process modelling,  
+  *  recent advances in Gaussian Process modelling,  
 
   *  active learning for accelerated inference. 
 

@@ -52,7 +52,7 @@ header:
 | 09:00-10:30 | [Michael Gutmann](https://michaelgutmann.github.io/) | TBA |  
 | 11:00-11:45 | [Richard Wilkinson](https://rich-d-wilkinson.github.io/) | TBA |   
 | 11:45-12:30 | [Chris Oates](http://oates.work/) | TBA |  
-| 14:00-14:45 | [Zoltan Szabo](https://www.lse.ac.uk/Statistics/People/Professor-Zoltan-Szabo) | TBA |
+| 14:00-14:45 | [Zoltan Szabo](https://zoltansz.github.io/) | TBA |
 | 14:45-15:30 | [Amandine Marrel](https://scholar.google.com/citations?user=fYND7JQAAAAJ&hl=en)  | TBA | 
 | 16:00-16:45 | [Danica Sutherland](https://djsutherland.ml/) | TBA |  
 | 16:45-17:30 | ~~~ | Panel discussion. |  

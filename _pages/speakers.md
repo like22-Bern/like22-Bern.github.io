@@ -19,7 +19,7 @@ permalink: /speakers/
   * [Amandine Marrel](https://scholar.google.com/citations?user=fYND7JQAAAAJ&hl=en) (CEA Cadarache)  
   * [Krikamol Muandet](http://www.krikamol.org/) (Max Planck Institut Tübingen)  
   * [Danica Sutherland](https://djsutherland.ml/) (University of British Columbia)  
-  * [Zoltan Szabo](https://www.lse.ac.uk/Statistics/People/Professor-Zoltan-Szabo) (London School of Economics)  
+  * [Zoltan Szabo](https://zoltansz.github.io/) (London School of Economics)  
   * [Chris Oates](http://oates.work/) (Newcastle University)  
   * [Niklas Wahlström](https://katalog.uu.se/profile/?id=N16-250) (Uppsala University)  
   * [Mark van der Wilk](https://mvdw.uk/) (Imperial College)  
