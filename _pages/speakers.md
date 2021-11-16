@@ -21,6 +21,7 @@ permalink: /speakers/
   * [Danica Sutherland](https://djsutherland.ml/) (University of British Columbia)  
   * [Zoltan Szabo](https://www.lse.ac.uk/Statistics/People/Professor-Zoltan-Szabo) (London School of Economics)  
   * [Chris Oates](http://oates.work/) (Newcastle University)  
+  * [Niklas Wahlström](https://katalog.uu.se/profile/?id=N16-250) (Uppsala University)  
   * [Mark van der Wilk](https://mvdw.uk/) (Imperial College)  
   * [Richard Wilkinson](https://rich-d-wilkinson.github.io/) (University of Nottingham)  
   * [George Wynne](https://georgewynne.github.io/) (Imperial College)  

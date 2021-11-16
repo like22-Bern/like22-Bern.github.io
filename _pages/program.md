@@ -39,8 +39,8 @@ header:
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Title and abstract |  
 |:-----------:|:-------------:|:-------------------|  
 | 09:00-10:30 | [Krikamol Muandet](http://www.krikamol.org/) | TBA |  
-| 11:00-11:45 | Speaker TBA | TBA |   
-| 11:45-12:30 | [Tomasz Kacprzak](http://tomaszkacprzak.github.io/) | TBA |  
+| 11:00-11:45 | [Tomasz Kacprzak](http://tomaszkacprzak.github.io/) | TBA |   
+| 11:45-12:30 | [Niklas Wahlström](https://katalog.uu.se/profile/?id=N16-250) | TBA |  
 | Early Afternoon | ~~~ | Video presentations from early-stage researchers. | 
 | 16:00-17:30 | [Peter Frazier](https://people.orie.cornell.edu/pfrazier/) | TBA |  
 
