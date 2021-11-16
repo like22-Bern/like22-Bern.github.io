@@ -12,7 +12,7 @@ header:
   caption: "Photo credit: [*Andreas Fischinger*](https://unsplash.com/photos/xosBoKRT0qE)"
   overlay_filter: 0.5
 actions:
-  - label: "Contributing"
+  - label: "Submit a contribution"
     url: "/contribution/"
 ---
 
