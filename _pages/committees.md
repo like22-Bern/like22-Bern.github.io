@@ -11,6 +11,7 @@ permalink: /committees/
   * [Kenji Fukumizu](https://www.ism.ac.jp/~fukumizu/) (The Institute of Statistical Mathematics)  
   * [Boumedienne Hamzi](https://sites.google.com/site/boumedienehamzi/) (Imperial College)    
   * [Jean-Michel Loubes](https://perso.math.univ-toulouse.fr/loubes/) (Institut de Mathématiques de Toulouse)  
+  * [Antonietta Mira](https://search.usi.ch/en/people/f8960de6d60dd08a79b6c1eb20b7442b/mira-antonietta) (Università della Svizzera italiana)  
   * [Guillaume Obozinski](https://people.epfl.ch/guillaume.obozinski/?lang=en) (Swiss Data Science Center)  
   * [Houman Owhadi](http://users.cms.caltech.edu/~owhadi/index.htm) (California Institute of Technology)  
   * [Wolfgang Polonik](http://www.stat.ucdavis.edu/~polonik/WP-personal-home.html) (University of California at Davis)  
