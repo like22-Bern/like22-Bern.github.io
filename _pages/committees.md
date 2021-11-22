@@ -20,7 +20,7 @@ permalink: /committees/
   * [Fernando Perez-Cruz](https://datascience.ch/team_member/fernando-perez-cruz/) (Swiss Data Science Center)   
   * [Luc Pronzato](https://www.i3s.unice.fr/lpronzato/) (CNRS)  
   * [Judith Rousseau](http://www.stats.ox.ac.uk/~rousseau/) (University of Oxford) 
-  * [Olivier Roustant](https://olivier-roustant.fr/) (Institut de Mathématiques de Toulouse)  
+  * [Olivier Roustant](https://olivier-roustant.fr/) (INSA Toulouse)  
   * [Thomas Schön](http://user.it.uu.se/~thosc112/index.html) (Uppsala University)   
   * [Bharath Sriperumbudur](http://personal.psu.edu/bks18/) (Pennsylvania State University)  
   * [Ingo Steinwart](https://www.isa.uni-stuttgart.de/institut/team/Steinwart-00002/) (University of Stuttgart)
