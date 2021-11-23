@@ -24,6 +24,9 @@ header:
 
 # Tentative schedule (to be confirmed)
 
+The first day of the event consists in four introductory courses, tackling the basics of their respective topics. The other days of the event are designed to allow invited speakers to present and discuss ongoing research and state of the art results.  
+
+
 ### Monday 10th January 2022
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Title and abstract |  
