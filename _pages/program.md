@@ -29,7 +29,7 @@ The first day of the event consists in four introductory courses, tackling the b
 
 ### Monday 10th January 2022
 
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Title and abstract |  
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Title |  
 |:-----------:|:-------------:|:-------------------|  
 | 09:00-10:30 | [Athénaïs Gautier](https://athenaisgautier.github.io/) &<br />[David Ginsbourger](http://www.ginsbourger.ch/) | TBA |  
 | 11:00-12:30 | [Dario Azzimonti](https://sites.google.com/view/darioazzimonti/home) &<br />[Cédric Travelletti](https://scholar.google.com/citations?user=zvkbeqYAAAAJ) | TBA |   
@@ -39,7 +39,7 @@ The first day of the event consists in four introductory courses, tackling the b
 
 ### Tuesday 11th January 2022
   
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Title and abstract |  
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Title |  
 |:-----------:|:-------------:|:-------------------|  
 | 09:00-10:30 | [Krikamol Muandet](http://www.krikamol.org/) | TBA |  
 | 11:00-11:45 | [Tomasz Kacprzak](http://tomaszkacprzak.github.io/) | TBA |   
@@ -50,7 +50,7 @@ The first day of the event consists in four introductory courses, tackling the b
 
 ### Wednesday 12th January 2022 
 
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Title and abstract |  
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Title |  
 |:-----------:|:-------------:|:-------------------|  
 | 09:00-10:30 | [Michael Gutmann](https://michaelgutmann.github.io/) | TBA |  
 | 11:00-11:45 | [Richard Wilkinson](https://rich-d-wilkinson.github.io/) | TBA |   
@@ -62,7 +62,7 @@ The first day of the event consists in four introductory courses, tackling the b
 
 ### Thursday 13th January 2022  
 
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  | Title and abstract |  
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  | Title |  
 |:-----------:|:-------------:|:-------------------|  
 | 09:00-10:15 | [Florence d'Alché-Buc](https://perso.telecom-paristech.fr/fdalche/) | TBA |  
 | 10:45-11:30 | [George Wynne](https://georgewynne.github.io/) | TBA |   
@@ -74,7 +74,7 @@ The first day of the event consists in four introductory courses, tackling the b
 
 ### Friday 14th January 2022  
 
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Title and abstract |  
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Title |  
 |:-----------:|:-------------:|:-------------------|  
 | 09:00-10:15 | [Mark van der Wilk](https://mvdw.uk/) | TBA |  
 | 10:45-11:30 | [Dario Azzimonti](https://sites.google.com/view/darioazzimonti/home) | TBA |   
