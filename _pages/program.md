@@ -54,7 +54,7 @@ The first day of the event consists in four introductory courses, tackling the b
 |:-----------:|:-------------:|:-------------------|  
 | 09:00-10:30 | [Michael Gutmann](https://michaelgutmann.github.io/) | TBA |  
 | 11:00-11:45 | [Richard Wilkinson](https://rich-d-wilkinson.github.io/) | TBA |   
-| 11:45-12:30 | [Chris Oates](http://oates.work/) | TBA |  
+| 11:45-12:30 | [Chris Oates](http://oates.work/) | Robust Generalised Bayesian Inference for Intractable Likelihoods |  
 | 14:00-14:45 | [Zoltan Szabo](https://zoltansz.github.io/) | TBA |
 | 14:45-15:30 | [Amandine Marrel](https://scholar.google.com/citations?user=fYND7JQAAAAJ&hl=en)  | TBA | 
 | 16:00-16:45 | [Danica Sutherland](https://djsutherland.ml/) | TBA |  
