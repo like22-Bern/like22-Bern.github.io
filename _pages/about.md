@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Lifting Inference with Kernel Embeddings"
-excerpt: "In Bern and online: January 10th to 14th 2022"
+excerpt: "Online: January 10th to 14th 2022"
 layout: splash
 classes: wide
 redirect_from: 
@@ -16,7 +16,7 @@ header:
       url: "https://forms.gle/46WJDGtv5nxwgsjS9"
 ---
 
-LIKE22 is a winter school and workshop that will take place between January 10th to 14th 2022 (electronically + in Bern depending on sanitary conditions), with main topics
+LIKE22 is a winter school and workshop that will take place between January 10th to 14th 2022 (electronically), with main topics
 
   *  kernel embeddings from theory to applications,   
 
