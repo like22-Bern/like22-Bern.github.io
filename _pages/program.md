@@ -77,7 +77,7 @@ The first day of the event consists in four introductory courses, tackling the b
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Title |  
 |:-----------:|:-------------:|:-------------------|  
 | 09:00-10:15 | [Mark van der Wilk](https://mvdw.uk/) | TBA |  
-| 10:45-11:30 | [Dario Azzimonti](https://sites.google.com/view/darioazzimonti/home) | TBA |   
+| 10:45-11:30 | [Dario Azzimonti](https://sites.google.com/view/darioazzimonti/home) | Skew Gaussian Processes for classification, preference and mixed problems |   
 | 11:30-12:15 | [Carl Henrik Ek](http://carlhenrik.com/) | TBA |  
 | 12:15-12:30 | ~~~ | Closing of LIKE22. |  
 
