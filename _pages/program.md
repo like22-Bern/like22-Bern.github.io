@@ -31,10 +31,10 @@ The first day of the event consists in four introductory courses, tackling the b
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Title |  
 |:-----------:|:-------------:|:-------------------|  
-| 09:00-10:30 | [Athénaïs Gautier](https://athenaisgautier.github.io/) &<br />[David Ginsbourger](http://www.ginsbourger.ch/) | TBA |  
-| 11:00-12:30 | [Dario Azzimonti](https://sites.google.com/view/darioazzimonti/home) &<br />[Cédric Travelletti](https://scholar.google.com/citations?user=zvkbeqYAAAAJ) | TBA |   
-| 13:30-15:00 | [Soham Sarkar](https://sites.google.com/view/sohamsarkar) | TBA |  
-| 15:30-17:00 | [ST John](http://www.infinitecuriosity.org/about/) | TBA |  
+| 09:00-10:30 | [Athénaïs Gautier](https://athenaisgautier.github.io/) &<br />[David Ginsbourger](http://www.ginsbourger.ch/) | Flexible, probabilistic function modelling with Gaussian Processes |  
+| 11:00-12:30 | [Dario Azzimonti](https://sites.google.com/view/darioazzimonti/home) &<br />[Cédric Travelletti](https://scholar.google.com/citations?user=zvkbeqYAAAAJ) | Sequential design of experiments with Gaussian Process models |   
+| 13:30-15:00 | [Soham Sarkar](https://sites.google.com/view/sohamsarkar) | Kernel methods: past, present, future|  
+| 15:30-17:00 | [ST John](http://www.infinitecuriosity.org/about/) | Gaussian processes for non-Gaussian likelihoods |  
 
 
 ### Tuesday 11th January 2022
