@@ -64,7 +64,7 @@ The first day of the event consists in four introductory courses, tackling the b
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  | Title |  
 |:-----------:|:-------------:|:-------------------|  
-| 09:00-10:15 | [Florence d'Alché-Buc](https://perso.telecom-paristech.fr/fdalche/) | TBA |  
+| 09:00-10:15 | [Florence d'Alché-Buc](https://perso.telecom-paristech.fr/fdalche/) | Learning to predict complex outputs: a kernel view |  
 | 10:45-11:30 | [George Wynne](https://georgewynne.github.io/) | TBA |   
 | 11:30-12:15 | [Johanna Ziegel](https://www.imsv.unibe.ch/about_us/staff/prof_dr_ziegel_johanna_f/index_eng.html) | TBA |  
 | 13:30-14:45 | [José Miguel Hernández-Lobato](https://jmhl.org/) | TBA |
