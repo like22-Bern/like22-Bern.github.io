@@ -43,7 +43,7 @@ The first day of the event consists in four introductory courses, tackling the b
 |:-----------:|:-------------:|:-------------------|  
 | 09:00-10:30 | [Krikamol Muandet](http://www.krikamol.org/) | TBA |  
 | 11:00-11:45 | [Tomasz Kacprzak](http://tomaszkacprzak.github.io/) | TBA |   
-| 11:45-12:30 | [Niklas Wahlström](https://katalog.uu.se/profile/?id=N16-250) | TBA |  
+| 11:45-12:30 | [Niklas Wahlström](https://katalog.uu.se/profile/?id=N16-250) | Linearly and nonlinearly constrained Gaussian processes |  
 | Early Afternoon | ~~~ | Video presentations from early-stage researchers. | 
 | 16:00-17:30 | [Peter Frazier](https://people.orie.cornell.edu/pfrazier/) | TBA |  
 
