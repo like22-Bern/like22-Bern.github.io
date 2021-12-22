@@ -55,7 +55,7 @@ The first day of the event consists in four introductory courses, tackling the b
 | 09:00-10:30 | [Michael Gutmann](https://michaelgutmann.github.io/) | TBA |  
 | 11:00-11:45 | [Richard Wilkinson](https://rich-d-wilkinson.github.io/) | Adjoint-aided inference of Gaussian process driven differential equations |   
 | 11:45-12:30 | [Chris Oates](http://oates.work/) | Robust Generalised Bayesian Inference for Intractable Likelihoods |  
-| 14:00-14:45 | [Zoltan Szabo](https://zoltansz.github.io/) | Continuous Emotion Transfer using RKHSs <br /> [Joint work with Alex Lambert, Sanjeel Parekh, and Florence d'Alché-Buc.] |
+| 14:00-14:45 | [Zoltan Szabo](https://zoltansz.github.io/) | Continuous Emotion Transfer using RKHSs |
 | 14:45-15:30 | [Amandine Marrel](https://scholar.google.com/citations?user=fYND7JQAAAAJ&hl=en)  | TBA | 
 | 16:00-16:45 | [Danica Sutherland](https://djsutherland.ml/) | TBA |  
 | 16:45-17:30 | ~~~ | Panel discussion. |  
@@ -66,7 +66,7 @@ The first day of the event consists in four introductory courses, tackling the b
 |:-----------:|:-------------:|:-------------------|  
 | 09:00-10:15 | [Florence d'Alché-Buc](https://perso.telecom-paristech.fr/fdalche/) | Learning to predict complex outputs: a kernel view |  
 | 10:45-11:30 | [George Wynne](https://georgewynne.github.io/) | A Spectral View of Kernel Stein Discrepancy: Unlocking Infinite Dimensions |   
-| 11:30-12:15 | [Johanna Ziegel](https://www.imsv.unibe.ch/about_us/staff/prof_dr_ziegel_johanna_f/index_eng.html) | TBA |  
+| 11:30-12:15 | [Johanna Ziegel](https://www.imsv.unibe.ch/about_us/staff/prof_dr_ziegel_johanna_f/index_eng.html) | Kernel scores: A versatile class of proper scoring rules for evaluating probabilistic forecasts  |  
 | 13:30-14:45 | [José Miguel Hernández-Lobato](https://jmhl.org/) | TBA |
 | 14:45-15:30 | ~~~ | Q&A with selected early-stage researchers. | 
 | 16:00-17:15 | [Andrew Gordon Wilson](https://cims.nyu.edu/~andrewgw/) | TBA |  
