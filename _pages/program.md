@@ -52,7 +52,7 @@ The first day of the event consists in four introductory courses, tackling the b
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Title |  
 |:-----------:|:-------------:|:-------------------|  
-| 09:00-10:30 | [Michael Gutmann](https://michaelgutmann.github.io/) | TBA |  
+| 09:00-10:30 | [Michael Gutmann](https://michaelgutmann.github.io/) | Accelerating Approximate Bayesian Computation with Kernels and Decision Making under Uncertainty |  
 | 11:00-11:45 | [Richard Wilkinson](https://rich-d-wilkinson.github.io/) | Adjoint-aided inference of Gaussian process driven differential equations |   
 | 11:45-12:30 | [Chris Oates](http://oates.work/) | Robust Generalised Bayesian Inference for Intractable Likelihoods |  
 | 14:00-14:45 | [Zoltan Szabo](https://zoltansz.github.io/) | Continuous Emotion Transfer using RKHSs |
