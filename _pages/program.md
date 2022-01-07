@@ -41,8 +41,8 @@ The first day of the event consists in four introductory courses, tackling the b
   
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Title |  
 |:-----------:|:-------------:|:-------------------|  
-| 09:00-10:30 | [Krikamol Muandet](http://www.krikamol.org/) | TBA |  
-| 11:00-11:45 | [Tomasz Kacprzak](http://tomaszkacprzak.github.io/) | TBA |   
+| 09:00-10:30 | [Krikamol Muandet](http://www.krikamol.org/) | Deconfounded Causal Learning with Kernels |  
+| 11:00-11:45 | [Tomasz Kacprzak](http://tomaszkacprzak.github.io/) | Adventures in inference in high dimensional spaces with heavy simulations in the field of cosmology |   
 | 11:45-12:30 | [Niklas Wahlström](https://katalog.uu.se/profile/?id=N16-250) | Linearly and nonlinearly constrained Gaussian processes |  
 | Early Afternoon | ~~~ | Video presentations from early-stage researchers. | 
 | 16:00-17:30 | [Peter Frazier](https://people.orie.cornell.edu/pfrazier/) | TBA |  
@@ -67,7 +67,7 @@ The first day of the event consists in four introductory courses, tackling the b
 | 09:00-10:15 | [Florence d'Alché-Buc](https://perso.telecom-paristech.fr/fdalche/) | Learning to predict complex outputs: a kernel view |  
 | 10:45-11:30 | [George Wynne](https://georgewynne.github.io/) | A Spectral View of Kernel Stein Discrepancy: Unlocking Infinite Dimensions |   
 | 11:30-12:15 | [Johanna Ziegel](https://www.imsv.unibe.ch/about_us/staff/prof_dr_ziegel_johanna_f/index_eng.html) | Kernel scores: A versatile class of proper scoring rules for evaluating probabilistic forecasts  |  
-| 13:30-14:45 | [José Miguel Hernández-Lobato](https://jmhl.org/) | TBA |
+| 13:30-14:45 | [José Miguel Hernández-Lobato](https://jmhl.org/) | Molecule optimization with deep generative models |
 | 14:45-15:30 | ~~~ | Q&A with selected early-stage researchers. | 
 | 16:00-17:15 | [Andrew Gordon Wilson](https://cims.nyu.edu/~andrewgw/) | TBA |  
 
