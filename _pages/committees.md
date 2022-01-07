@@ -4,7 +4,7 @@ title: ""
 permalink: /committees/
 ---
 
-# Scientific Committee (in progress): 
+# Scientific Committee: 
 
   * [Lutz Dümbgen](https://www.imsv.unibe.ch/about_us/staff/prof_dr_duembgen_lutz/index_eng.html) (University of Bern)  
   * [Paolo Favaro](https://www.cvg.unibe.ch/people/favaro) (University of Bern) 
@@ -28,7 +28,7 @@ permalink: /committees/
   * [Christine Thomas-Agnan](https://www.tse-fr.eu/people/christine-thomas-agnan) (Toulouse School of Economics)  
  
   
-# Organizing Committee (in progress): 
+# Organizing Committee: 
 
   * [Lea Friedli](https://www.researchgate.net/profile/Lea-Friedli-2) (University of Lausanne)    
   * [Athénaïs Gautier](https://athenaisgautier.github.io/) (University of Bern)  
