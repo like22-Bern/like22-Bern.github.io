@@ -5,7 +5,7 @@ description: "LIKE22's speakers"
 permalink: /speakers/
 ---
 
-# Confirmed speakers (in progress): 
+# Confirmed speakers: 
 
   * [Dario Azzimonti](https://sites.google.com/view/darioazzimonti/home) (IDSIA)  
   * [Florence d'Alché-Buc](https://perso.telecom-paristech.fr/fdalche/) (Télécom Paris)  
