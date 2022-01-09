@@ -21,8 +21,8 @@ permalink: /submission/
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Presenter&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Title |  
 |:-------------:|:-------------------|  
-| Linda Chamakh | Explicit Mean-Embeddings for Financial Portfolio | 
 | Pierre-Cyril Aubin-Frankowski | Handling infinitely many inequality constraints in function optimization problems using kernel methods |  
+| Linda Chamakh | Explicit Mean-Embeddings for Financial Portfolio | 
 | Jean Carlo Guella | Recent theoretical results on MMD, Energy distance, HSIC and its generalizations |  
  
 # Call for submission of contributed videos
