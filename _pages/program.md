@@ -22,7 +22,7 @@ header:
       url: "/program/#friday-14th-january-2022"
 ---
 
-# Tentative schedule (to be confirmed)
+# Schedule 
 
 The first day of the event consists in four introductory courses, tackling the basics of their respective topics. The other days of the event are designed to allow invited speakers to present and discuss ongoing research and state of the art results.  
 
