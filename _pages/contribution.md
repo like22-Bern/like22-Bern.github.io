@@ -6,7 +6,7 @@ permalink: /submission/
 
 {% include base_path %}
 
-# Contributed videos (graduate student category)
+# Contributed videos (graduate student level)
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Presenter&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Title |  
 |:-------------:|:-------------------|  
@@ -15,10 +15,9 @@ permalink: /submission/
 | Zachary A. Cosenza | Design of Cell Culture Media with Multi-Information Source Bayesian Optimization |  
 | Iain Henderson | Stochastic Processes Under Linear Differential Constraints : Application to Gaussian Process Regression for the 3 Dimensional Free Space Wave Equation |  
 | Ziang Niu | Discrepancy-based Inference for Intractable Generative Models using Quasi-Monte Carlo |  
-| Linda Chamakh | Explicit Mean-Embeddings for Financial Portfolio |  
 | Manuel Schürch | Correlated Product of Experts for Sparse Gaussian Process Regression | 
 
-# Contributed videos (postdoc category)
+# Contributed videos (postdoc level)
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Presenter&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Title |  
 |:-------------:|:-------------------|  
