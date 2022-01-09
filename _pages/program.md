@@ -45,7 +45,7 @@ The first day of the event consists in four introductory courses, tackling the b
 | 11:00-11:45 | [Tomasz Kacprzak](http://tomaszkacprzak.github.io/) | Adventures in inference in high dimensional spaces with heavy simulations in the field of cosmology |   
 | 11:45-12:30 | [Niklas Wahlström](https://katalog.uu.se/profile/?id=N16-250) | Linearly and nonlinearly constrained Gaussian processes |  
 | 15:00-16:00 | ~~~ | Video presentations from early-stage researchers. | 
-| 16:00-17:30 | [Peter Frazier](https://people.orie.cornell.edu/pfrazier/) | TBA |  
+| 16:00-17:30 | [Peter Frazier](https://people.orie.cornell.edu/pfrazier/) | Grey-Box Bayesian Optimization |  
 
 
 ### Wednesday 12th January 2022 
