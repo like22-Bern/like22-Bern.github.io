@@ -6,7 +6,27 @@ permalink: /submission/
 
 {% include base_path %}
 
-# Submission of contributed videos
+# Contributed videos (graduate student)
+
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Presenter&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Title |  
+|:-------------:|:-------------------|  
+| Raul Astudillo | Bayesian Optimization of Function Networks |  
+| Luc Brogat-Motte | Reduced-rank Regression in Structured Prediction |  
+| Zachary A. Cosenza | Design of Cell Culture Media with Multi-Information Source Bayesian Optimization |  
+| Iain Henderson | Stochastic Processes Under Linear Differential Constraints : Application to Gaussian Process Regression for the 3 Dimensional Free Space Wave Equation |  
+| Ziang Niu | Discrepancy-based Inference for Intractable Generative Models using Quasi-Monte Carlo |  
+| Linda Chamakh | Explicit Mean-Embeddings for Financial Portfolio |  
+| Manuel Schürch | Correlated Product of Experts for Sparse Gaussian Process Regression | 
+
+# Contributed videos (postdoc)
+
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Presenter&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Title |  
+|:-------------:|:-------------------|  
+| Linda Chamakh | Explicit Mean-Embeddings for Financial Portfolio | 
+| Pierre-Cyril Aubin-Frankowski | Handling infinitely many inequality constraints in function optimization problems using kernel methods |  
+| Jean Carlo Guella | Recent theoretical results on MMD, Energy distance, HSIC and its generalizations |  
+ 
+# Call for submission of contributed videos
 
 LIKE22 calls for short contributions by early-career researchers (at both graduate student and postdoc levels) in form of short videos.
 
