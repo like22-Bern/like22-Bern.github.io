@@ -69,7 +69,7 @@ The first day of the event consists in four introductory courses, tackling the b
 | 11:30-12:15 | [Johanna Ziegel](https://www.imsv.unibe.ch/about_us/staff/prof_dr_ziegel_johanna_f/index_eng.html) | Kernel scores: A versatile class of proper scoring rules for evaluating probabilistic forecasts  |  
 | 13:30-14:45 | [José Miguel Hernández-Lobato](https://jmhl.org/) | Molecule optimization with deep generative models |
 | 14:45-15:30 | ~~~ | Q&A with selected early-stage researchers. | 
-| 16:00-17:15 | [Andrew Gordon Wilson](https://cims.nyu.edu/~andrewgw/) | TBA |  
+| 16:00-17:15 | [Andrew Gordon Wilson](https://cims.nyu.edu/~andrewgw/) | How should we build scalable Gaussian processes? |  
 
 
 ### Friday 14th January 2022  
