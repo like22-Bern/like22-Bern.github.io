@@ -38,7 +38,7 @@ To watch a video, click on the corresponding contribution.
 </details>
 
 <details> 
-  <summary> Manuel Schürch (IDSIA/USI): Correlated Product of Experts for Sparse Gaussian Process Regression  </summary>  
+  <summary> Manuel Schürch (IDSIA/USI): Correlated Product of Experts for Sparse Gaussian Process Regression  <a href="https://arxiv.org/pdf/2112.09519.pdf">[Reference]</a> </summary>  
 <iframe width="640" height="360" src="https://tube.switch.ch/embed/st0c6FGrVp" frameborder="0" allow="fullscreen" allowfullscreen> </iframe> 
 </details>
 
