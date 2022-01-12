@@ -10,7 +10,7 @@ permalink: /submission/
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Presenter&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Title |  
 |:-------------:|:-------------------|  
-| Raul Astudillo| Bayesian Optimization of Function Networks |  
+| Raul Astudillo| Bayesian Optimization of Function Networks<br /><iframe width="640" height="360" src="https://tube.switch.ch/embed/w9rPx7KZ1z" frameborder="0" allow="fullscreen" allowfullscreen></iframe> |  
 | Luc Brogat-Motte | Reduced-rank Regression in Structured Prediction |  
 | Zachary A. Cosenza | Design of Cell Culture Media with Multi-Information Source Bayesian Optimization |  
 | Iain Henderson | Stochastic Processes Under Linear Differential Constraints : Application to Gaussian Process Regression for the 3 Dimensional Free Space Wave Equation |  
