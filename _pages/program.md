@@ -301,7 +301,8 @@ The first day of the event consists in four introductory courses, tackling the b
 		</td>
 		<td> 
 		    Molecule optimization with deep generative models <br />
-		    <br /> &#9719; Recording not available yet, please come back later. 
+		    <br /> &#9719; Recording not available yet, please come back later. <br />
+		    <a href="https://github.com/like22-Bern/like22-Bern.github.io/raw/master/sharedressources/13January_Molecule%20optimization%20with%20deep%20generative%20models.pdf">Download the slides</a> 
 		</td>
 	</tr>
     <tr>
