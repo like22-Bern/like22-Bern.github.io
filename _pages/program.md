@@ -170,15 +170,87 @@ The first day of the event consists in four introductory courses, tackling the b
 
 ### Wednesday 12th January 2022 
 
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Title |  
-|:-----------:|:-------------:|:-------------------|  
-| 09:00-10:30 | [Michael Gutmann](https://michaelgutmann.github.io/) | Accelerating Approximate Bayesian Computation with Kernels and Decision Making under Uncertainty |  
-| 11:00-11:45 | [Richard Wilkinson](https://rich-d-wilkinson.github.io/) | Adjoint-aided inference of Gaussian process driven differential equations |   
-| 11:45-12:30 | [Chris Oates](http://oates.work/) | Robust Generalised Bayesian Inference for Intractable Likelihoods |  
-| 14:00-14:45 | [Zoltan Szabo](https://zoltansz.github.io/) | Continuous Emotion Transfer using RKHSs <br /> [Download the slides](https://github.com/like22-Bern/like22-Bern.github.io/raw/master/sharedressources/12January_Zoltan_Szabo_invited_talk_LIKE_12_01_2022_slides.pdf) |
-| 14:45-15:30 | [Amandine Marrel](https://scholar.google.com/citations?user=fYND7JQAAAAJ&hl=en)  | New advances in sensitivity analysis based on HSIC dependence measures<br /> [Download the slides](https://github.com/like22-Bern/like22-Bern.github.io/raw/master/sharedressources/12January_HSIC%20for%20GSA%20Marrel.pdf) | 
-| 16:00-16:45 | [Danica Sutherland](https://djsutherland.ml/) | Better deep learning (sometimes) by learning kernel mean embeddings |  
-  
+<table>
+<thead>
+	<tr>
+		<th> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </th>
+		<th> &nbsp;&nbsp;&nbsp;&nbsp;Speaker&nbsp;&nbsp;&nbsp;&nbsp; </th>
+		<th> Title and content </th>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td> 09:00-10:30  </td>
+		<td> 
+		    <a href="https://michaelgutmann.github.io/" target="_blank">Michael Gutmann</a>
+		</td>
+		<td> 
+		    Accelerating Approximate Bayesian Computation with Kernels and Decision Making under Uncertainty
+		    <br><details> <br> <summary> Click here to expand and see the recording. </summary><br> 
+		    <iframe width="640" height="360" src="https://tube.switch.ch/embed/WC8NDmiWuW" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+		    <br></details> 
+		</td>
+	</tr>
+	<tr>
+		<td> 11:00-11:45  </td>
+		<td> 
+		    <a href="https://rich-d-wilkinson.github.io/" target="_blank">Richard Wilkinson</a>
+		</td>
+		<td> 
+		    Adjoint-aided inference of Gaussian process driven differential equations
+		    <br><details> <br> <summary> Click here to expand and see the recording. </summary><br> 
+		    <iframe width="640" height="360" src="https://tube.switch.ch/embed/BhdoHoEFUQ" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+		    <br></details> 
+		</td>
+	</tr>
+    <tr>
+		<td> 11:45-12:30   </td>
+		<td> 
+		    <a href="http://oates.work/" target="_blank">Chris Oates</a>
+		</td>
+		<td> 
+		     Robust Generalised Bayesian Inference for Intractable Likelihoods
+		    <br><details> <br> <summary> Click here to expand and see the recording. </summary><br> 
+		    <iframe width="640" height="360" src="https://tube.switch.ch/embed/mlsbm20IkU" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+		    <br></details> 
+		</td>
+	</tr>
+	<tr>
+		<td> 14:00-14:45 </td>
+		<td> 
+		    <a href="https://zoltansz.github.io/" target="_blank">Zoltan Szabo</a> 
+		</td>
+		<td> 
+		    Continuous Emotion Transfer using RKHSs
+		    <br /> &#9746; This talk was not recorded. <br />
+		    <a href="https://github.com/like22-Bern/like22-Bern.github.io/raw/master/sharedressources/12January_Zoltan_Szabo_invited_talk_LIKE_12_01_2022_slides.pdf">Download the slides</a> 
+		</td>
+	</tr>
+	<tr>
+		<td> 14:45-15:30  </td>
+		<td> 
+		    <a href="https://scholar.google.com/citations?user=fYND7JQAAAAJ&hl=en" target="_blank">Amandine Marrel</a> 
+		</td>
+		<td> 
+		    New advances in sensitivity analysis based on HSIC dependence measures
+		    <br /> &#9746; This talk was not recorded. <br />
+		    <a href="https://github.com/like22-Bern/like22-Bern.github.io/raw/master/sharedressources/12January_HSIC%20for%20GSA%20Marrel.pdf">Download the slides</a> 
+		</td>
+	</tr>
+    <tr>
+		<td> 16:00-16:45   </td>
+		<td> 
+		    <a href="https://djsutherland.ml/" target="_blank">Danica Sutherland</a>
+		</td>
+		<td> 
+		    Better deep learning (sometimes) by learning kernel mean embeddings
+		    <br><details> <br> <summary> Click here to expand and see the recording. </summary><br> 
+		    <iframe width="640" height="360" src="https://tube.switch.ch/embed/mNHdVDxXtw" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+		    <br></details> 
+		</td>
+	</tr>
+</tbody>
+</table>
 
 ### Thursday 13th January 2022  
 
