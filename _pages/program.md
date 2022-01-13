@@ -29,12 +29,73 @@ The first day of the event consists in four introductory courses, tackling the b
 
 ### Monday 10th January 2022
 
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Title |  
-|:-----------:|:-------------:|:-------------------|  
-| 09:00-10:30 | [Athénaïs Gautier](https://athenaisgautier.github.io/) &<br />[David Ginsbourger](http://www.ginsbourger.ch/) | Flexible, probabilistic function modelling with Gaussian Processes<br /> [Download the slides](https://github.com/like22-Bern/like22-Bern.github.io/raw/master/sharedressources/10January_LIKE22_introGPs.pdf) [Download the notebook](https://github.com/like22-Bern/like22-Bern.github.io/raw/master/sharedressources/10January_GPR-tuto.ipynb) (please, remember to save the notebook with the ".ipynb" extension) |  
-| 11:00-12:30 | [Dario Azzimonti](https://sites.google.com/view/darioazzimonti/home) &<br />[Cédric Travelletti](https://scholar.google.com/citations?user=zvkbeqYAAAAJ) | Sequential design of experiments with Gaussian Process models<br /> [Download the slides (Part 1)](https://github.com/like22-Bern/like22-Bern.github.io/raw/master/sharedressources/10January_LIKE22_Tutorial_seqDoE.pdf) [Download the slides (Part 2)](https://github.com/like22-Bern/like22-Bern.github.io/raw/master/sharedressources/10January_LIKE22_Appli_seqDoE.pdf)|   
-| 13:30-15:00 | [Soham Sarkar](https://sites.google.com/view/sohamsarkar) | Kernel methods: past, present, future<br /> [Download the slides](https://github.com/like22-Bern/like22-Bern.github.io/raw/master/sharedressources/10January_LIKE22_Kernel_methods_in_Statistics.pdf)|  
-| 15:30-17:00 | [ST John](http://www.infinitecuriosity.org/about/) | Gaussian processes for non-Gaussian likelihoods<br /> [Download the slides](https://github.com/like22-Bern/like22-Bern.github.io/raw/master/sharedressources/10January_nonGaussianLikelihood.pdf) |  
+<table>
+<thead>
+	<tr>
+		<th> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </th>
+		<th> &nbsp;&nbsp;&nbsp;&nbsp;Speaker&nbsp;&nbsp;&nbsp;&nbsp; </th>
+		<th> Title and content </th>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td> 09:00-10:30  </td>
+		<td> 
+		    <a href="https://athenaisgautier.github.io/" target="_blank">Athénaïs Gautier</a> & <a href="http://www.ginsbourger.ch/" target="_blank">David Ginsbourger</a> 
+		</td>
+		<td> 
+		    Flexible, probabilistic function modelling with Gaussian Processes
+		    <br><details> <br>  <summary> Click here to expand and see the recording. 
+		    </summary><br>  
+		    <iframe width="640" height="360" src="https://tube.switch.ch/embed/L2VKJbOjk1" frameborder="0" allow="fullscreen" allowfullscreen></iframe> 
+		    <br></details> 
+		    <a href="https://github.com/like22-Bern/like22-Bern.github.io/raw/master/sharedressources/10January_LIKE22_introGPs.pdf">Download the slides</a> 
+		    <a href="https://github.com/like22-Bern/like22-Bern.github.io/raw/master/sharedressources/10January_GPR-tuto.ipynb">Download the notebook</a> 
+		    (please, remember to save the notebook with the ".ipynb" extension) 
+		</td>
+	</tr>
+	<tr>
+		<td> 11:00-12:30 </td>
+		<td> 
+		    <a href="https://sites.google.com/view/darioazzimonti/home" target="_blank">Dario Azzimonti</a> & <a href="https://scholar.google.com/citations?user=zvkbeqYAAAAJ" target="_blank">Cédric Travelletti</a> 
+		</td>
+		<td> 
+		    Sequential design of experiments with Gaussian Process models   
+		    <br><details> <br><summary> Click here to expand and see the recording. </summary> <br> 
+		    <iframe width="640" height="360" src="https://tube.switch.ch/embed/E79i9UPNSe" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+		    <br></details> 
+		    <a href="https://github.com/like22-Bern/like22-Bern.github.io/raw/master/sharedressources/10January_LIKE22_Tutorial_seqDoE.pdf">Download the slides (Part 1)</a> 
+		    <a href="https://github.com/like22-Bern/like22-Bern.github.io/raw/master/sharedressources/10January_LIKE22_Appli_seqDoE.pdf">Download the slides (Part 2)</a> 
+	    </td>
+	</tr>
+	<tr>
+		<td> 13:30-15:00 </td>
+		<td> 
+		    <a href="https://sites.google.com/view/sohamsarkar" target="_blank">Soham Sarkar</a> 
+		</td>
+		<td> 
+		    Kernel methods: past, present, future  
+		    <br><details> <br> <summary> Click here to expand and see the recording. </summary><br>
+		    <iframe width="640" height="360" src="https://tube.switch.ch/embed/jHwk5HJs0g" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+		    <br></details> 
+		    <a href="https://github.com/like22-Bern/like22-Bern.github.io/raw/master/sharedressources/10January_LIKE22_Kernel_methods_in_Statistics.pdf">Download the slides</a>  
+	    </td>
+	</tr>
+	<tr>
+		<td> 15:30-17:00 </td>
+		<td> 
+		    <a href="http://www.infinitecuriosity.org/about/" target="_blank">ST John</a> 
+		</td>
+		<td> 
+		    Gaussian processes for non-Gaussian likelihoods
+		    <br><details> <br> <summary> Click here to expand and see the recording. </summary><br> 
+		    <iframe width="640" height="360" src="https://tube.switch.ch/embed/5mTvBbbprE" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+		    <br></details> 
+		    <a href="https://github.com/like22-Bern/like22-Bern.github.io/raw/master/sharedressources/10January_nonGaussianLikelihood.pdf">Download the slides</a> 
+		</td>
+	</tr>
+</tbody>
+</table>
 
 
 ### Tuesday 11th January 2022
@@ -55,7 +116,7 @@ The first day of the event consists in four introductory courses, tackling the b
 | 09:00-10:30 | [Michael Gutmann](https://michaelgutmann.github.io/) | Accelerating Approximate Bayesian Computation with Kernels and Decision Making under Uncertainty |  
 | 11:00-11:45 | [Richard Wilkinson](https://rich-d-wilkinson.github.io/) | Adjoint-aided inference of Gaussian process driven differential equations |   
 | 11:45-12:30 | [Chris Oates](http://oates.work/) | Robust Generalised Bayesian Inference for Intractable Likelihoods |  
-| 14:00-14:45 | [Zoltan Szabo](https://zoltansz.github.io/) | Continuous Emotion Transfer using RKHSs |
+| 14:00-14:45 | [Zoltan Szabo](https://zoltansz.github.io/) | Continuous Emotion Transfer using RKHSs <br /> [Download the slides](https://github.com/like22-Bern/like22-Bern.github.io/raw/master/sharedressources/12January_Zoltan_Szabo_invited_talk_LIKE_12_01_2022_slides.pdf) |
 | 14:45-15:30 | [Amandine Marrel](https://scholar.google.com/citations?user=fYND7JQAAAAJ&hl=en)  | New advances in sensitivity analysis based on HSIC dependence measures<br /> [Download the slides](https://github.com/like22-Bern/like22-Bern.github.io/raw/master/sharedressources/12January_HSIC%20for%20GSA%20Marrel.pdf) | 
 | 16:00-16:45 | [Danica Sutherland](https://djsutherland.ml/) | Better deep learning (sometimes) by learning kernel mean embeddings |  
   
