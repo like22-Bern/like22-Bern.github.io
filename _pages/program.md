@@ -41,7 +41,7 @@ The first day of the event consists in four introductory courses, tackling the b
 	<tr>
 		<td> 09:00-10:30  </td>
 		<td> 
-		    <a href="https://athenaisgautier.github.io/" target="_blank">Athénaïs Gautier</a> & <a href="http://www.ginsbourger.ch/" target="_blank">David Ginsbourger</a> 
+		    <a href="https://athenaisgautier.github.io/" target="_blank">Athénaïs Gautier</a> & <br /> <a href="http://www.ginsbourger.ch/" target="_blank">David Ginsbourger</a> 
 		</td>
 		<td> 
 		    Flexible, probabilistic function modelling with Gaussian Processes
@@ -57,7 +57,7 @@ The first day of the event consists in four introductory courses, tackling the b
 	<tr>
 		<td> 11:00-12:30 </td>
 		<td> 
-		    <a href="https://sites.google.com/view/darioazzimonti/home" target="_blank">Dario Azzimonti</a> & <a href="https://scholar.google.com/citations?user=zvkbeqYAAAAJ" target="_blank">Cédric Travelletti</a> 
+		    <a href="https://sites.google.com/view/darioazzimonti/home" target="_blank">Dario Azzimonti</a> & <br /> <a href="https://scholar.google.com/citations?user=zvkbeqYAAAAJ" target="_blank">Cédric Travelletti</a> 
 		</td>
 		<td> 
 		    Sequential design of experiments with Gaussian Process models   
@@ -99,14 +99,73 @@ The first day of the event consists in four introductory courses, tackling the b
 
 
 ### Tuesday 11th January 2022
-  
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Title |  
-|:-----------:|:-------------:|:-------------------|  
-| 09:00-10:30 | [Krikamol Muandet](http://www.krikamol.org/) | Kernel Mean Embedding with Applications in Deconfounded Causal Learning<br /> [Download the slides](https://github.com/like22-Bern/like22-Bern.github.io/raw/master/sharedressources/11January_kme-like.pdf) |  
-| 11:00-11:45 | [Tomasz Kacprzak](http://tomaszkacprzak.github.io/) | Adventures in inference in high dimensional spaces with heavy simulations in the field of cosmology |   
-| 11:45-12:30 | [Niklas Wahlström](https://katalog.uu.se/profile/?id=N16-250) | Linearly and nonlinearly constrained Gaussian processes |  
-| 15:00-16:00 | ~~~ | Video presentations from early-stage researchers.<br /> [Watch their videos here](/submission) [ or directly on Switchtube](https://tube.switch.ch/channels/xxjgEqmDDD) |  
-| 16:00-17:30 | [Peter Frazier](https://people.orie.cornell.edu/pfrazier/) | Grey-Box Bayesian Optimization<br /> [Download the slides](https://github.com/like22-Bern/like22-Bern.github.io/raw/master/sharedressources/11January_Frazier-LIKE.pdf) |  
+
+<table>
+<thead>
+	<tr>
+		<th> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </th>
+		<th> &nbsp;&nbsp;&nbsp;&nbsp;Speaker&nbsp;&nbsp;&nbsp;&nbsp; </th>
+		<th> Title and content </th>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td> 09:00-10:30  </td>
+		<td> 
+		    <a href="http://www.krikamol.org/" target="_blank">Krikamol Muandet</a>
+		</td>
+		<td> 
+		    Kernel Mean Embedding with Applications in Deconfounded Causal Learning
+		    <br /> &#9719; Recording not available yet, please come back later. <br /> 
+		    <a href="https://github.com/like22-Bern/like22-Bern.github.io/raw/master/sharedressources/11January_kme-like.pdf">Download the slides</a> 
+		</td>
+	</tr>
+    <tr>
+		<td> 11:00-11:45  </td>
+		<td> 
+		    <a href="http://tomaszkacprzak.github.io/" target="_blank">Tomasz Kacprzak</a>
+		</td>
+		<td> 
+		   Adventures in inference in high dimensional spaces with heavy simulations in the field of cosmology.
+		    <br /> &#9719; Recording not available yet, please come back later. 
+		</td>
+	</tr>
+	<tr>
+		<td> 11:45-12:30  </td>
+		<td> 
+		    <a href="https://katalog.uu.se/profile/?id=N16-250" target="_blank">Niklas Wahlström</a>
+		</td>
+		<td> 
+		    Linearly and nonlinearly constrained Gaussian processes
+		    <br><details> <br> <summary> Click here to expand and see the recording. </summary><br> 
+		    <iframe width="640" height="360" src="https://tube.switch.ch/embed/oueYeIrIXj" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+		    <br></details> 
+		</td>
+	</tr>
+	<tr>
+		<td> 15:00-16:00  </td>
+		<td> </td>
+		<td> 
+		  Video presentations from early-stage researchers.<br /> 
+		  <a href="/submission">Watch their videos here</a> 
+		  <a href="https://tube.switch.ch/channels/xxjgEqmDDD"> or directly on Switchtube</a> 
+		</td>
+	</tr>
+	<tr>
+		<td> 16:00-17:30 </td>
+		<td> 
+		    <a href="https://people.orie.cornell.edu/pfrazier/" target="_blank">Peter Frazier</a> 
+		</td>
+		<td> 
+		    Grey-Box Bayesian Optimization
+		    <br><details> <br> <summary> Click here to expand and see the recording. </summary><br> 
+		    <iframe width="640" height="360" src="https://tube.switch.ch/embed/gjZmaqp7IQ" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+		    <br></details> 
+		    <a href="https://github.com/like22-Bern/like22-Bern.github.io/raw/master/sharedressources/11January_Frazier-LIKE.pdf">Download the slides</a> 
+		</td>
+	</tr>
+</tbody>
+</table>
 
 
 ### Wednesday 12th January 2022 
