@@ -328,10 +328,52 @@ The first day of the event consists in four introductory courses, tackling the b
 
 ### Friday 14th January 2022  
 
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Title |  
-|:-----------:|:-------------:|:-------------------|  
-| 09:00-10:15 | [Mark van der Wilk](https://mvdw.uk/) | Approximations, Inductive Biases, and their Connections in Gaussian Processes |  
-| 10:45-11:30 | [Dario Azzimonti](https://sites.google.com/view/darioazzimonti/home) | Skew Gaussian Processes for classification, preference and mixed problems |   
-| 11:30-12:15 | [Carl Henrik Ek](http://carlhenrik.com/) | Modulated Surrogates for Bayesian Optimisation |  
-| 12:15-12:30 | ~~~ | Closing of LIKE22. |  
 
+<table>
+<thead>
+	<tr>
+		<th> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </th>
+		<th> &nbsp;&nbsp;&nbsp;&nbsp;Speaker&nbsp;&nbsp;&nbsp;&nbsp; </th>
+		<th> Title and content </th>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td> 09:00-10:15  </td>
+		<td> 
+		    <a href="https://mvdw.uk/" target="_blank">Mark van der Wilk</a>
+		</td>
+		<td> 
+		    Approximations, Inductive Biases, and their Connections in Gaussian Processes  <br />
+		    <br /> &#9719; Recording not available yet, please come back later. 
+		</td>
+	</tr>
+	<tr>
+		<td> 10:45-11:30  </td>
+		<td> 
+		    <a href="https://sites.google.com/view/darioazzimonti/home" target="_blank">Dario Azzimonti</a>
+		</td>
+		<td> 
+		    Skew Gaussian Processes for classification, preference and mixed problems  <br />
+		    <br /> &#9719; Recording not available yet, please come back later. 
+		</td>
+	</tr>
+	<tr>
+		<td> 11:30-12:15  </td>
+		<td> 
+		    <a href="http://carlhenrik.com/" target="_blank">Carl Henrik Ek </a>
+		</td>
+		<td> 
+		    Modulated Surrogates for Bayesian Optimisation<br />
+		    <br /> &#9719; Recording not available yet, please come back later. 
+		</td>
+	</tr>
+	<tr>
+		<td> 12:15-12:30 </td>
+		<td> </td>
+		<td> 
+		    Closing of LIKE22.
+		</td>
+	</tr>
+</tbody>
+</table>
