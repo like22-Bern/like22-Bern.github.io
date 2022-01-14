@@ -25,7 +25,7 @@ header:
 # Schedule 
 
 The first day of the event consists in four introductory courses, tackling the basics of their respective topics. The other days of the event are designed to allow invited speakers to present and discuss ongoing research and state of the art results.  
-
+Most talks are recorded and videos are available on [LIKE22's Switchtube channel](https://tube.switch.ch/channels/jBwZ8w4hJY). You can also access the recorded talks below.
 
 ### Monday 10th January 2022
 
@@ -271,7 +271,9 @@ The first day of the event consists in four introductory courses, tackling the b
 		</td>
 		<td> 
 		    Learning to predict complex outputs: a kernel view  <br />
-		    <br /> &#9719; Recording not available yet, please come back later. 
+		    <br><details> <br> <summary> Click here to expand and see the recording. </summary><br> 
+		    <iframe width="640" height="360" src="https://tube.switch.ch/embed/jLS8pmfmOT" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+		    <br></details> 
 		</td>
 	</tr>
 	<tr>
@@ -281,7 +283,9 @@ The first day of the event consists in four introductory courses, tackling the b
 		</td>
 		<td> 
 		    A Spectral View of Kernel Stein Discrepancy: Unlocking Infinite Dimensions  <br />
-		    <br /> &#9719; Recording not available yet, please come back later. 
+		    <br><details> <br> <summary> Click here to expand and see the recording. </summary><br> 
+		    <iframe width="640" height="360" src="https://tube.switch.ch/embed/TSMfcSWzwQ" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+		    <br></details>  
 		</td>
 	</tr>
 	<tr>
@@ -291,7 +295,9 @@ The first day of the event consists in four introductory courses, tackling the b
 		</td>
 		<td> 
 		    Kernel scores: A versatile class of proper scoring rules for evaluating probabilistic forecasts <br />
-		    <br /> &#9719; Recording not available yet, please come back later. 
+		    <br><details> <br> <summary> Click here to expand and see the recording. </summary><br> 
+		    <iframe width="640" height="360" src="https://tube.switch.ch/embed/9WEe22NqRw" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+		    <br></details> 
 		</td>
 	</tr>
 	<tr>
@@ -301,7 +307,9 @@ The first day of the event consists in four introductory courses, tackling the b
 		</td>
 		<td> 
 		    Molecule optimization with deep generative models <br />
-		    <br /> &#9719; Recording not available yet, please come back later. 
+		    <br><details> <br> <summary> Click here to expand and see the recording. </summary><br> 
+		    <iframe width="640" height="360" src="https://tube.switch.ch/embed/GM8ZVJgzBC" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+		    <br></details> 
 		</td>
 	</tr>
     <tr>
@@ -309,7 +317,7 @@ The first day of the event consists in four introductory courses, tackling the b
 		<td> </td>
 		<td> 
 		    Q&A with selected early-stage researchers. <br />
-		    <br /> &#9719; Recording not available yet, please come back later. 
+		    <br /> &#9746; This recording is not available. 
 		</td>
 	</tr>
 	<tr>
@@ -319,7 +327,9 @@ The first day of the event consists in four introductory courses, tackling the b
 		</td>
 		<td> 
 		    How should we build scalable Gaussian processes? <br />
-		    <br /> &#9719; Recording not available yet, please come back later. 
+		    <br><details> <br> <summary> Click here to expand and see the recording. </summary><br> 
+		    <iframe width="640" height="360" src="https://tube.switch.ch/embed/fystnYo4Xx" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+		    <br></details>  
 		</td>
 	</tr>
 </tbody>
