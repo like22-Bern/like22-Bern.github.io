@@ -140,6 +140,7 @@ Most talks are recorded and videos are available on [LIKE22's Switchtube channel
 		    <br><details> <br> <summary> Click here to expand and see the recording. </summary><br> 
 		    <iframe width="640" height="360" src="https://tube.switch.ch/embed/oueYeIrIXj" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
 		    <br></details> 
+        <a href="https://www.it.uu.se/katalog/nikwa778/talks/LIKE22-workshop.pdf">Access the slides</a>
 		</td>
 	</tr>
 	<tr>
