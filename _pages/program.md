@@ -140,7 +140,6 @@ Most talks are recorded and videos are available on [LIKE22's Switchtube channel
 		    <br><details> <br> <summary> Click here to expand and see the recording. </summary><br> 
 		    <iframe width="640" height="360" src="https://tube.switch.ch/embed/oueYeIrIXj" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
 		    <br></details> 
-        <a href="https://www.it.uu.se/katalog/nikwa778/talks/LIKE22-workshop.pdf">Access the slides</a>
 		</td>
 	</tr>
 	<tr>
@@ -356,7 +355,9 @@ Most talks are recorded and videos are available on [LIKE22's Switchtube channel
 		</td>
 		<td> 
 		    Approximations, Inductive Biases, and their Connections in Gaussian Processes  <br />
-		    <br /> &#9719; Recording not available yet, please come back later. 
+		    <br><details> <br> <summary> Click here to expand and see the recording. </summary><br> 
+		    <iframe width="640" height="360" src="https://tube.switch.ch/embed/Z1yqQA9LBg" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+		    <br></details> 
 		</td>
 	</tr>
 	<tr>
@@ -366,7 +367,9 @@ Most talks are recorded and videos are available on [LIKE22's Switchtube channel
 		</td>
 		<td> 
 		    Skew Gaussian Processes for classification, preference and mixed problems  <br />
-		    <br /> &#9719; Recording not available yet, please come back later. 
+		    <br><details> <br> <summary> Click here to expand and see the recording. </summary><br> 
+		    <iframe width="640" height="360" src="https://tube.switch.ch/embed/dSkTkPWydy" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+		    <br></details> 
 		</td>
 	</tr>
 	<tr>
@@ -376,7 +379,9 @@ Most talks are recorded and videos are available on [LIKE22's Switchtube channel
 		</td>
 		<td> 
 		    Modulated Surrogates for Bayesian Optimisation<br />
-		    <br /> &#9719; Recording not available yet, please come back later. 
+		    <br><details> <br> <summary> Click here to expand and see the recording. </summary><br> 
+		    <iframe width="640" height="360" src="https://tube.switch.ch/embed/1wXRQ6LIpZ" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+		    <br></details> 
 		</td>
 	</tr>
 	<tr>
