@@ -116,7 +116,9 @@ Most talks are recorded and videos are available on [LIKE22's Switchtube channel
 		</td>
 		<td> 
 		    Kernel Mean Embedding with Applications in Deconfounded Causal Learning <br />
-		    <br /> &#9719; Recording not available yet, please come back later. <br /> 
+		    <br><details> <br> <summary> Click here to expand and see the recording. </summary><br> 
+		    <iframe width="640" height="360" src="https://tube.switch.ch/embed/GksVcRnFiL" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+		    <br></details> 
 		    <a href="https://github.com/like22-Bern/like22-Bern.github.io/raw/master/sharedressources/11January_kme-like.pdf">Download the slides</a> 
 		</td>
 	</tr>
@@ -298,6 +300,7 @@ Most talks are recorded and videos are available on [LIKE22's Switchtube channel
 		    <br><details> <br> <summary> Click here to expand and see the recording. </summary><br> 
 		    <iframe width="640" height="360" src="https://tube.switch.ch/embed/9WEe22NqRw" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
 		    <br></details> 
+        <a href="https://github.com/like22-Bern/like22-Bern.github.io/raw/master/sharedressources/13January_LIKE22-JZ.pdf">Download the slides</a>  
 		</td>
 	</tr>
 	<tr>
