@@ -14,8 +14,11 @@ To watch a video, click on the corresponding contribution.
 
 ## Contributions at the Graduate student level
 
- **Awardee:** Iain Henderson (INSA Toulouse): Stochastic Processes Under Linear Differential Constraints : Application to Gaussian Process Regression for the 3 Dimensional Free Space Wave Equation
+ <details> 
+  <summary>  **Awardee:** Iain Henderson (INSA Toulouse): Stochastic Processes Under Linear Differential Constraints : Application to Gaussian Process Regression for the 3 Dimensional Free Space Wave Equation
+  </summary>
 <iframe width="640" height="360" src="https://tube.switch.ch/embed/USzhssmMHN" frameborder="0" allow="fullscreen" allowfullscreen> </iframe>
+</details>
 
 The other contributions are listed here in alphabetical order.
 <details> 
@@ -45,9 +48,11 @@ The other contributions are listed here in alphabetical order.
 
 
 ## Postdoc level
- **Awardee:**  Pierre-Cyril Aubin-Frankowski (INRIA Paris): Handling infinitely many inequality constraints in function optimization problems using kernel methods 
+ <details> 
+  <summary> **Awardee:**  Pierre-Cyril Aubin-Frankowski (INRIA Paris): Handling infinitely many inequality constraints in function optimization problems using kernel methods </summary>  
  
 <iframe width="640" height="360" src="https://tube.switch.ch/embed/jp0eMpEyNJ" frameborder="0" allow="fullscreen" allowfullscreen> </iframe>
+</details>
 
 The other contributions are listed here in alphabetical order.
 
