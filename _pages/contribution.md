@@ -8,10 +8,16 @@ permalink: /submission/
 
 # Contributed videos 
 
+The Scientific Committee voted on the basis of scientific and didactical qualities reflected by the presentations as well as their adequation to the topics of LIKE22 and their timing. Several members pointed out the high-standard of presentations overall. The LIKE22 Organisation Committee extend its congratulations to our two awardees, Iain Henderson (Graduate student level) and Pierre-Cyril Aubin-Frankowski (Postdoc level), as well as to all the other early-stage video contributors. 
+
 To watch a video, click on the corresponding contribution.
 
-## Graduate student level
+## Contributions at the Graduate student level
 
+ **Awardee:** Iain Henderson (INSA Toulouse): Stochastic Processes Under Linear Differential Constraints : Application to Gaussian Process Regression for the 3 Dimensional Free Space Wave Equation
+<iframe width="640" height="360" src="https://tube.switch.ch/embed/USzhssmMHN" frameborder="0" allow="fullscreen" allowfullscreen> </iframe>
+
+The other contributions are listed here in alphabetical order.
 <details> 
   <summary> Raul Astudillo (Cornell University): Bayesian Optimization of Function Networks  </summary>
    <iframe width="640" height="360" src="https://tube.switch.ch/embed/w9rPx7KZ1z" frameborder="0" allow="fullscreen" allowfullscreen> </iframe>
@@ -28,11 +34,6 @@ To watch a video, click on the corresponding contribution.
 </details>
 
 <details> 
-  <summary> Iain Henderson (INSA Toulouse): Stochastic Processes Under Linear Differential Constraints : Application to Gaussian Process Regression for the 3 Dimensional Free Space Wave Equation   </summary> 
-<iframe width="640" height="360" src="https://tube.switch.ch/embed/USzhssmMHN" frameborder="0" allow="fullscreen" allowfullscreen> </iframe>
-</details>
-
-<details> 
   <summary> Ziang Niu (University of Pennsylvania): Discrepancy-based Inference for Intractable Generative Models using Quasi-Monte Carlo  </summary>  
 <iframe width="640" height="360" src="https://tube.switch.ch/embed/PVV4ym3jEj" frameborder="0" allow="fullscreen" allowfullscreen> </iframe> 
 </details>
@@ -44,11 +45,11 @@ To watch a video, click on the corresponding contribution.
 
 
 ## Postdoc level
-
-<details> 
-  <summary> Pierre-Cyril Aubin-Frankowski (INRIA Paris): Handling infinitely many inequality constraints in function optimization problems using kernel methods  </summary>  
+ **Awardee:**  Pierre-Cyril Aubin-Frankowski (INRIA Paris): Handling infinitely many inequality constraints in function optimization problems using kernel methods 
+ 
 <iframe width="640" height="360" src="https://tube.switch.ch/embed/jp0eMpEyNJ" frameborder="0" allow="fullscreen" allowfullscreen> </iframe>
-</details>
+
+The other contributions are listed here in alphabetical order.
 
 <details> 
   <summary> Linda Chamakh (polytechnique): Explicit Mean-Embeddings for Financial Portfolio  </summary>   
