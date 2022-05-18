@@ -20,7 +20,9 @@ To watch a video, click on the corresponding contribution.
 <iframe width="640" height="360" src="https://tube.switch.ch/embed/USzhssmMHN" frameborder="0" allow="fullscreen" allowfullscreen> </iframe>
 </details>
 
-The other contributions are listed here in alphabetical order.
+
+*The other contributions are listed here in alphabetical order.*
+
 <details> 
   <summary> Raul Astudillo (Cornell University): Bayesian Optimization of Function Networks  </summary>
    <iframe width="640" height="360" src="https://tube.switch.ch/embed/w9rPx7KZ1z" frameborder="0" allow="fullscreen" allowfullscreen> </iframe>
@@ -54,7 +56,9 @@ The other contributions are listed here in alphabetical order.
 <iframe width="640" height="360" src="https://tube.switch.ch/embed/jp0eMpEyNJ" frameborder="0" allow="fullscreen" allowfullscreen> </iframe>
 </details>
 
-The other contributions are listed here in alphabetical order.
+
+*The other contributions are listed here in alphabetical order.*
+
 
 <details> 
   <summary> Linda Chamakh (polytechnique): Explicit Mean-Embeddings for Financial Portfolio  </summary>   
