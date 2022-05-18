@@ -8,7 +8,7 @@ permalink: /submission/
 
 # Contributed videos 
 
-The Scientific Committee voted on the basis of scientific and didactical qualities reflected by the presentations as well as their adequation to the topics of LIKE22 and their timing. Several members pointed out the high-standard of presentations overall. The LIKE22 Organisation Committee extend its congratulations to our two awardees, Iain Henderson (Graduate student level) and Pierre-Cyril Aubin-Frankowski (Postdoc level), as well as to all the other early-stage video contributors. 
+The Scientific Committee voted on the basis of scientific and didactical qualities reflected by the presentations as well as their adequation to the topics of LIKE22 and their timing. Several members pointed out the high-standard of presentations overall. The LIKE22 Organisation Committee extend its congratulations to our two awardees, **Iain Henderson (Graduate student level)** and **Pierre-Cyril Aubin-Frankowski (Postdoc level)**, as well as to all the other early-stage video contributors. 
 
 To watch a video, click on the corresponding contribution.
 
